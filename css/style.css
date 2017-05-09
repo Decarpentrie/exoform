@@ -3,11 +3,17 @@ body{
 }
 
 #color{
+	position: absolute;
+	height: 13%;
+	width: 100%;
+	background-color: #3B5998 ;
+	position: absolute;
+	top: -1%;
+	left: -0%;
+	; 	
 	
-	height: 90px;
-	width: 999px;
-	background-color: royalblue;
 }
+
 #font{
 	color: white;
 	font-family: 'Lucida Console', Monaco, monospace;
